@@ -8,7 +8,7 @@ It was announced and released in March 2023.
 
 | Feature                      | Specification                                                                  |
 | ---------------------------: | :----------------------------------------------------------------------------- |
-| Chipset                      | Mediatek 1080                                                                    |
+| Chipset                      | Mediatek Dimensity 1080                                                                    |
 | CPU                          | Octa-core (2x2.6 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55)                       |
 | GPU                          | Mali-G68 MC4                                                                |
 | Memory                       | 6GB / 8GB RAM (LPDDR4X)                                                        |
@@ -75,4 +75,5 @@ mka recoveryimage
 ## Contributors
  - [Fede2782](https://github.com/Fede2782)
  - [SavedByLight](https://github.com/SavedByLight)
+ - [ravindu644](https://github.com/ravindu644) for OTG fix
  - [ChrolloUTA](https://github.com/ChrolloUTA)
